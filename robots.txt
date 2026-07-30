@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sangsu-massage-note.top-mapo-shirts.xyz/sitemap.xml
-Sitemap: https://sangsu-massage-note.top-mapo-shirts.xyz/sitemap-pages.xml
+Sitemap: https://mapo-sangsu-shirts.pbn-builder.xyz/sitemap.xml
+Sitemap: https://mapo-sangsu-shirts.pbn-builder.xyz/sitemap-pages.xml
